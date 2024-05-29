@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|c:\\disco seguridad\\universidad\\estructura de datos final\\t2_gonzalestasaycodiego\\t2_gonzalestasaycodiego\\views\\shared\\mercadolibre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|solutionrelative:t2_gonzalestasaycodiego\\views\\shared\\mercadolibre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|c:\\disco seguridad\\universidad\\estructura de datos final\\t2_gonzalestasaycodiego\\t2_gonzalestasaycodiego\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|solutionrelative:t2_gonzalestasaycodiego\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|c:\\disco seguridad\\universidad\\estructura de datos final\\t2_gonzalestasaycodiego\\t2_gonzalestasaycodiego\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|solutionrelative:t2_gonzalestasaycodiego\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|c:\\disco seguridad\\universidad\\estructura de datos final\\t2_gonzalestasaycodiego\\t2_gonzalestasaycodiego\\views\\shared\\amazon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C5B7AFD-9076-4C56-866D-68F9FD57DEB8}|T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego.csproj|solutionrelative:t2_gonzalestasaycodiego\\views\\shared\\amazon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MercadoLibre.cshtml",
+              "DocumentMoniker": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Views\\Shared\\MercadoLibre.cshtml",
+              "RelativeDocumentMoniker": "T2_GonzalesTasaycoDiego\\Views\\Shared\\MercadoLibre.cshtml",
+              "ToolTip": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Views\\Shared\\MercadoLibre.cshtml",
+              "RelativeToolTip": "T2_GonzalesTasaycoDiego\\Views\\Shared\\MercadoLibre.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T11:30:25.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Amazon.cshtml",
+              "DocumentMoniker": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Views\\Shared\\Amazon.cshtml",
+              "RelativeDocumentMoniker": "T2_GonzalesTasaycoDiego\\Views\\Shared\\Amazon.cshtml",
+              "ToolTip": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Views\\Shared\\Amazon.cshtml",
+              "RelativeToolTip": "T2_GonzalesTasaycoDiego\\Views\\Shared\\Amazon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T10:50:20.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "T2_GonzalesTasaycoDiego\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "T2_GonzalesTasaycoDiego\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:04:07.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "T2_GonzalesTasaycoDiego\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DISCO SEGURIDAD\\UNIVERSIDAD\\Estructura de Datos FINAL\\T2_GonzalesTasaycoDiego\\T2_GonzalesTasaycoDiego\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "T2_GonzalesTasaycoDiego\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T05:40:17.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
